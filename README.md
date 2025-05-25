@@ -1,6 +1,7 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
 Date: 05-05-25
+
 Reg No: 212222060184
 
 ## Aim:
